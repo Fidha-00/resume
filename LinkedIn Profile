@@ -1,22 +1,7 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <title> Profile </title>
-</head>
-
-<body>
-    
-    <h3> My LinkedIn Profile </h3>
+<h3> My LinkedIn Profile </h3>
     <hr>
     <a href="https://www.linkedin.com/in/fidha-salahudeen-3b73b0227/" target="_blank"> 
         <img src="https://media.licdn.com/dms/image/C4D03AQFBpXmcs2FvWw/profile-displayphoto-shrink_400_400/0/1649665502769?e=1680739200&v=beta&t=NmG3uHbLL-pn42ZO1kFGd56zNK8B9iuRgTL7oURpSe0" style="width:100px;height:100px" alt="Image not found!"> </a>
     
     <!-- or <a href="https://www.linkedin.com/in/fidha-salahudeen-3b73b0227/" target="_blank"> 
         <img src="1649665502769.jpeg" style="width:100px;height:100px"> -->
-    
-
-
-</body>
-
-</html>
